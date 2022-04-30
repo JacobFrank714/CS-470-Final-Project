@@ -88,6 +88,8 @@ CREATE TABLE IF NOT EXISTS `J3DK`.`Genres` (
   PRIMARY KEY (`Genre_Name`))
 ENGINE = InnoDB;
 
+-- TODO: populate Genre table with predefined Genres
+
 
 -- -----------------------------------------------------
 -- Table `J3DK`.`Songs`
