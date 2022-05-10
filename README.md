@@ -16,4 +16,4 @@ Go to Database_Info and run the TestDataPopulation.sql file to populate the data
 
 ## Diagrams
 
-The Diagrams that we have created so far.
+The Diagrams that we have created so far. See report for more detail.
